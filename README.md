@@ -37,3 +37,7 @@ In essence, the model learns to:
 - Decode each user's data independently, despite shared resources and noise, achieving low BER across various SNR levels. 
 
 This setup is particularly useful for NOMA, where the objective is to maximize channel efficiency and ensure reliable communication for multiple users on the same frequency band.
+
+
+![alt text](https://github.com/paritosh2805/deep-noma-code/blob/000dd2ce95a97d33cef505b0afaec9df4f857f87/Constellation.png)![alt text](https://github.com/paritosh2805/deep-noma-code/blob/000dd2ce95a97d33cef505b0afaec9df4f857f87/Constellation.png)
+
