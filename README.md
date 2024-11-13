@@ -1,4 +1,4 @@
-this code implements a deep learning model for Non-Orthogonal Multiple Access (NOMA)
+This code implements a deep learning model for Non-Orthogonal Multiple Access (NOMA)
 communication systems, which is a technique used in wireless communications to serve multiple users simultaneously on the same frequency band. Here's how it applies to the NOMA context and how each part contributes to the model:
 
 ### Understanding the NOMA-Specific Aspects of the Code
